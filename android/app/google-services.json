@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704634365825",
+    "project_id": "to-chegando-cliente",
+    "storage_bucket": "to-chegando-cliente.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704634365825:android:68eea94af10f98b8c1aa80",
+        "android_client_info": {
+          "package_name": "com.tochegando.cliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIaixHOOwXdlw4zu7HXbz18-NtzPwYFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
