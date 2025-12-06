@@ -1,7 +1,7 @@
 class Config {
   static const googleKey = "AIzaSyDp58F_Sdf-CrcwUb8ZizIV7zCVEjIB1FI";
 static const String oneSiginalAppid = '507bfcb0-c166-4a51-9409-71d02b837c2f';
-static const String oneSiginalApiKey = 'YOUR_ONESIGNAL_API_KEY_HERE';
+static const String oneSiginalApiKey = '5fcozgewxe4ff4zkw6nrrs17d';
 
 // Temporary base domain URL for setup (please add your final URL here)
 static const String baseDomain = 'https://tochegandodelivery.site';
